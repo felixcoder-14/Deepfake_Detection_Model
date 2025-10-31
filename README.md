@@ -111,29 +111,13 @@ We use **MobileNetV2** (pretrained on ImageNet) and fine-tune for binary classif
 Training script example:
 
 ```bash
-python src/train.py
+python src/model_train.py
 ```
 
 Outputs:
 
-* `mobilenetv2_model.h5`
+* `deepfake_model_02.keras`
 * Model logs
-
----
-
-## ✅ Evaluation
-
-Run evaluation:
-
-```bash
-python src/evaluate.py
-```
-
-Outputs:
-
-* Accuracy / Loss
-* Confusion matrix
-* Predictions
 
 ---
 
