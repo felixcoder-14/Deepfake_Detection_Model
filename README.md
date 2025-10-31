@@ -6,8 +6,11 @@
 This repository contains an end-to-end deepfake detection pipeline that performs:
 
 ✅ Face extraction
+
 ✅ Pre-processing
+
 ✅ Deep learning classification
+
 ✅ Interactive UI via **Gradio**
 
 Built using **MTCNN** for face detection and **MobileNetV2 (Transfer Learning)** for classification.
