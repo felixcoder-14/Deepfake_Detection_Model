@@ -87,7 +87,9 @@ pip install -r requirements.txt
 We use the **FaceForensics / Deepfake Detection Challenge dataset (Kaggle)**.
 
 ➡️ Video frames are extracted using **OpenCV**
+
 ➡️ Faces are cropped using **MTCNN**
+
 ➡️ Images resized to **(224 × 224)**
 
 ---
@@ -95,8 +97,11 @@ We use the **FaceForensics / Deepfake Detection Challenge dataset (Kaggle)**.
 ## 🧩 Preprocessing Pipeline
 
 1️⃣ **Video → Frames**
+
 2️⃣ **MTCNN Face Detection & Cropping**
+
 3️⃣ Normalize / Resize
+
 4️⃣ Store into dataset folders (`real/`, `fake/`)
 
 ---
