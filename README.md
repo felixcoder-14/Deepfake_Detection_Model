@@ -62,8 +62,6 @@ Built using **MTCNN** for face detection and **MobileNetV2 (Transfer Learning)**
 └── LICENSE
 ```
 
-> Folder names can vary — adjust based on your actual structure.
-
 ---
 
 ## 📦 Installation
