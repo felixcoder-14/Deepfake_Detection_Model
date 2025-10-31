@@ -58,8 +58,7 @@ Built using **MTCNN** for face detection and **MobileNetV2 (Transfer Learning)**
 │   ├── processed/
 │
 ├── README.md
-├── requirements.txt
-└── LICENSE
+└── requirements.txt
 ```
 
 ---
