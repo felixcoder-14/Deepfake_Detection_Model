@@ -45,9 +45,8 @@ Built using **MTCNN** for face detection and **MobileNetV2 (Transfer Learning)**
 .
 ├── src/
 │   ├── extract_frames.py
-│   ├── crop_faces.py
-│   ├── train.py
-│   ├── evaluate.py
+│   ├── extract_faces.py
+│   ├── model_train.py
 │   ├── app.py
 │
 ├── models/
