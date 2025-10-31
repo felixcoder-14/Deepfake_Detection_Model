@@ -117,7 +117,6 @@ python src/model_train.py
 Outputs:
 
 * `deepfake_model_02.keras`
-* Model logs
 
 ---
 
