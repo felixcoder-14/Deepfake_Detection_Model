@@ -185,7 +185,8 @@ Video → Frames → Face Crop → Resize → Train CNN → Predict via Gradio
 ## 📬 Results Summary
 
 ✅ Accurate deepfake detection via MobileNetV2
-✅ Works in real-time for images
+
+
 ✅ Accessible UI with Gradio
 
 ---
