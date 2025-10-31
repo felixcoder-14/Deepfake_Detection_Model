@@ -98,7 +98,7 @@ We use the **FaceForensics / Deepfake Detection Challenge dataset (Kaggle)**.
 
 ---
 
-## 🏋️ Model Training
+## ✨ Model Training
 
 We use **MobileNetV2** (pretrained on ImageNet) and fine-tune for binary classification.
 
