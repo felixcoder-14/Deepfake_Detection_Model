@@ -51,7 +51,7 @@ Built using **MTCNN** for face detection and **MobileNetV2 (Transfer Learning)**
 │   ├── app.py
 │
 ├── models/
-│   ├── mobilenetv2_model.h5
+│   ├── deepfake_model_02.keras
 │
 ├── data/
 │   ├── raw/
