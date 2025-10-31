@@ -211,11 +211,10 @@ pip install -r requirements.txt
 
 ## 📚 References
 
-* FaceForensics++
+* Kaggle Dataset FaceForensics++
 * [https://www.tensorflow.org](https://www.tensorflow.org)
 * [https://opencv.org](https://opencv.org)
 * [https://github.com/ipazc/mtcnn](https://github.com/ipazc/mtcnn)
 * [https://gradio.app](https://gradio.app)
-* Kaggle Deepfake Dataset
 
 
