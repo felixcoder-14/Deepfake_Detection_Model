@@ -225,4 +225,8 @@ pip install -r requirements.txt
 * [https://github.com/ipazc/mtcnn](https://github.com/ipazc/mtcnn)
 * [https://gradio.app](https://gradio.app)
 
+## 🧾 My Progress
+
+![image alt](https://github.com/felixcoder-14/Deepfake_Detection_Model/blob/c4a9d5ece6a57197f0097233c072631991b02ebb/data/Output.jpg)
+
 
